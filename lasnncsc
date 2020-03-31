@@ -1,0 +1,36 @@
+[33mcommit ad5e8b08a01f83a7a340b1dc349f77068e7ced97[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mgood2[m[33m)[m
+Author: nn1001the <thenn@softdreams.vn>
+Date:   Tue Mar 31 22:06:27 2020 +0700
+
+    add good2 and edit good1
+
+[33mcommit c1cb0a60937387fc1efa4f3423da582fa80fc625[m
+Author: nn1001the <62842772+nn1001the@users.noreply.github.com>
+Date:   Tue Mar 31 22:01:45 2020 +0700
+
+    Create temp1.txt
+
+[33mcommit ffa44a81cd9d480bef4ac60655a0373c77a8e758[m
+Merge: 98c555c 1130eb2
+Author: nn1001the <thenn@softdreams.vn>
+Date:   Tue Mar 31 21:57:34 2020 +0700
+
+    good for you
+
+[33mcommit 1130eb2d472d3df338ada0fa86d0e73ae52bdb40[m[33m ([m[1;32mgood1[m[33m)[m
+Author: nn1001the <thenn@softdreams.vn>
+Date:   Tue Mar 31 21:48:11 2020 +0700
+
+    gd1.docx
+
+[33mcommit 98c555c5aa413bdd849fa9a1547ba634b5d1040c[m
+Author: nn1001the <thenn@softdreams.vn>
+Date:   Tue Mar 31 21:46:53 2020 +0700
+
+    delete
+
+[33mcommit 12ca3b2e8a524e614312331734b2370225d2d333[m
+Author: nn1001the <62842772+nn1001the@users.noreply.github.com>
+Date:   Tue Mar 31 21:34:45 2020 +0700
+
+    Create abc
